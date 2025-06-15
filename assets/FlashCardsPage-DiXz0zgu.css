@@ -1,0 +1,1 @@
+.slide-next-enter-active,.slide-next-leave-active,.slide-prev-enter-active,.slide-prev-leave-active{transition:transform .2s cubic-bezier(.25,.8,.25,1)}.slide-next-enter-from{transform:translate(105%)}.slide-next-leave-to,.slide-prev-enter-from{transform:translate(-105%)}.slide-prev-leave-to{transform:translate(105%)}

@@ -1,0 +1,1 @@
+import{d as t,G as n,o,k as a}from"./index-o-Ql71uG.js";const i={class:"text-sm text-gray-600 dark:text-gray-400"},c=t({__name:"LexicalUnitDefinitionCell",props:{definition:{}},setup(s){return(e,r)=>(o(),n("span",i,a(e.definition??"—"),1))}});export{c as default};
