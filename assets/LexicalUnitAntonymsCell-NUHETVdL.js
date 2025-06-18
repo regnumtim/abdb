@@ -1,0 +1,1 @@
+import{d as t,G as e,o as s,k as a}from"./index-CGDPbZo-.js";const o={class:"text-sm text-gray-600 dark:text-gray-400"},l=t({__name:"LexicalUnitAntonymsCell",props:{antonyms:{}},setup(r){return(n,m)=>(s(),e("span",o,a(n.antonyms&&n.antonyms.length>0?n.antonyms.join(", "):"—"),1))}});export{l as default};
