@@ -1,0 +1,1 @@
+import{d as n,G as r,o as a,k as e}from"./index-B5hnXMc3.js";const s={class:"text-sm text-gray-700 dark:text-gray-300"},c=n({__name:"LexicalUnitTranscriptionCell",props:{transcription:{}},setup(o){return(t,i)=>(a(),r("span",s,e(t.transcription?`/${t.transcription}/`:"—"),1))}});export{c as default};
