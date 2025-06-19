@@ -1,0 +1,1 @@
+import{d as s,G as e,o,k as t}from"./index-XUaeqkGE.js";const a={class:"text-sm text-gray-600 dark:text-gray-400"},p=s({__name:"LexicalUnitSynonymsCell",props:{synonyms:{}},setup(r){return(n,y)=>(o(),e("span",a,t(n.synonyms&&n.synonyms.length>0?n.synonyms.join(", "):"—"),1))}});export{p as default};
