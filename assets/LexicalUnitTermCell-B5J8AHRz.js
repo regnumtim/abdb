@@ -1,0 +1,1 @@
+import{d as t,G as o,o as s,k as a}from"./index-C86tINBn.js";const r={class:"font-semibold text-gray-900 dark:text-white"},i=t({__name:"LexicalUnitTermCell",props:{term:{}},setup(n){return(e,p)=>(s(),o("span",r,a(e.term),1))}});export{i as default};
